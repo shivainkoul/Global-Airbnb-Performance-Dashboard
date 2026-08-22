@@ -131,21 +131,21 @@ Global Airbnb data contains a large number of listings, hosts, reviews, cities, 
 
 ## <H2>6. SCREENSHOTS </H2>
 
-###  Overview Dashboard
+### i. Overview Dashboard
 
 The dashboard provides a high-level view of Airbnb listings, city market share, pricing, ratings, and listing growth.
 
 <br>
 <img width="603" height="370" alt="Global Airbnb Performance Dashboard - Overview" src="https://github.com/shivainkoul/Global-Airbnb-Performance-Dashboard/blob/main/Snapshot%201%20of%20the%20dashboard%20(Overview).png" />
 
-###  Ratings Dashboard
+### ii.  Ratings Dashboard
 
 The ratings page compares average Airbnb ratings across major cities and provides an overall/detailed rating view.
 
 <br>
 <img width="603" height="370" alt="Global Airbnb Performance Dashboard - Ratings" src="https://github.com/shivainkoul/Global-Airbnb-Performance-Dashboard/blob/main/Snapshot%202%20of%20the%20dashboard%20(Ratings).png" />
 
-###  Reviews Dashboard
+###  iii. Reviews Dashboard
 
 The reviews page analyzes review frequency, seasonality, and host trust/verification patterns.
 
